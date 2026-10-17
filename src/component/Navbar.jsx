@@ -1,5 +1,5 @@
 import {useState} from 'react'
-const links = ['about' , 'skills', 'project', 'contact'];
+const links = ['about', 'skills', 'projects', 'contacts'];
 
 
 function Navbar({name, theme, onThemeToggle}) {

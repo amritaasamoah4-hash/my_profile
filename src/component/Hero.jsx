@@ -7,7 +7,7 @@ function Hero ({ profile }) {
             <p>{profile.title} </p>
             <div className ="hero-buttons">
                 <a href="#projects" className="btn">View My Work</a>
-                <a href="#contact" className="btn-outline">Contact Me</a>
+                <a href="#contacts" className="btn-outline">Contact Me</a>
             </div>
         </section>
     ); 
